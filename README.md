@@ -18,4 +18,6 @@ Hosted by the [Center for Computational Astrophysics](https://www.simonsfoundati
 - Nathaniel Starkman [@nstarman](http://github.com/nstarman)
 
 ## How to Express Interest?
-Google form coming soon!
+[Register here](https://forms.gle/2oKpzaosWWvdVvof9) before August 30!
+
+We will send responses / invitations by early September.
