@@ -12,10 +12,14 @@ October 14–18, 2024
 ## Where?
 Hosted by the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) in NYC.
 
-## Who? (Organizers)
+## Who?
+
+Organizers:
 - Adrian Price-Whelan [@adrn](http://github.com/adrn)
 - Kaze Wong [@kazewong](http://github.com/kazewong)
 - Nathaniel Starkman [@nstarman](http://github.com/nstarman)
+
+We expect to invite ~20–25 participants.
 
 ## How to Express Interest?
 [Register here](https://forms.gle/2oKpzaosWWvdVvof9) before August 30!
