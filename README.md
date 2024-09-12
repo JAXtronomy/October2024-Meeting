@@ -22,6 +22,9 @@ Organizers:
 We expect to invite ~20–25 participants.
 
 ## How to Express Interest?
-[Register here](https://forms.gle/2oKpzaosWWvdVvof9) before August 30!
+~[Register here](https://forms.gle/2oKpzaosWWvdVvof9) before August 30!~
+~We will send responses / invitations by early September.~
 
-We will send responses / invitations by early September.
+> [!NOTE]  
+> Registration is now closed and invites have been sent.  
+> Please check back here for more information.
