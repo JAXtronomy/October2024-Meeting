@@ -21,12 +21,13 @@ Organizers:
 
 We expect to invite ~20–25 participants.
 
-## Slides
+## Useful Links
 
 - [Intro slides](https://docs.google.com/presentation/d/1fyuxDGSAewPtynLESwxjd8vUqrysdHdXGb1FjSLcm8I)
 - [Logistics](https://docs.google.com/presentation/d/1_FK1cbQntmPHsYCmtRBfZCBuwbBKGOHsciYEW0T2-74)
 - [Schedule](https://docs.google.com/spreadsheets/d/13ud3iA0sue1kf_DnJciDpk0Ci6uHdl15JTL7WRLhZIQ)
 - [Show and Tell](https://docs.google.com/presentation/d/1YGwDofGlNyxr4C0W7K0Kh3JQB2MHD2_1AHOuqZgs77g)
+- [Running Notes](https://docs.google.com/document/d/1poVL550KOL2XOQ7jzOhaYi67bcCMA8TO-Y8i34tbKeQ)
 
 ## How to Express Interest?
 ~[Register here](https://forms.gle/2oKpzaosWWvdVvof9) before August 30!~
